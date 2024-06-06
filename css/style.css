@@ -1,0 +1,9 @@
+.box{
+    margin-bottom: 5px;
+    height: 100px;
+    background-color: red;
+}
+.bigbox{
+    height: 400px;
+    background-color: gray;
+}
